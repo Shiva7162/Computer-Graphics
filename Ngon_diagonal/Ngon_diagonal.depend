@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1603859040 source:c:\users\shiva\documents\computergraphics\ngon_diagonal\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+983682186 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1599889463 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1599889465 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+

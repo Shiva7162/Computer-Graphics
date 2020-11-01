@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1602585850 source:c:\users\shiva\documents\computergraphics\sierpinski\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+983682186 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1599889463 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1599889465 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
